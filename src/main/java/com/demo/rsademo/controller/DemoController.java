@@ -18,6 +18,7 @@ import java.util.Map;
 
 /**
  * 模拟客户端
+ * 注意：要想正确使用本Controller，需要关掉自定义DispatcherSevelet
  */
 @RestController
 public class DemoController {
